@@ -8,6 +8,7 @@
 //const sessionClient = new dialogflow.SessionsClient(config);
 
 async function runSample(projectId = 'still-tensor-244105') {
+//everything happens here
 
 const dialogflow = require('dialogflow');
 const uuid = require('uuid');
